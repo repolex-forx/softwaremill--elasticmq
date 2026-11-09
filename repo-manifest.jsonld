@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/softwaremill/elasticmq/commit/73a1c655e36ea1256a77f43cd1ea648014c51dd3",
       "git:hexsha": "73a1c655e36ea1256a77f43cd1ea648014c51dd3",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.0.0-rc1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.0.0-rc1",
+      "repolex:parsedAt": "2026-11-09T15:17:29.681528+00:00"
     },
     {
       "@id": "https://repolex.ai/r/softwaremill/elasticmq/commit/17730f46feebbbeb52a4f0170eb8c9a26155166c",
