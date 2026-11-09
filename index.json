@@ -1,0 +1,11 @@
+{
+  "org": "softwaremill",
+  "repo": "elasticmq",
+  "versions": [
+    {
+      "commit": "73a1c655e36ea1256a77f43cd1ea648014c51dd3",
+      "tag": "v2.0.0-rc1",
+      "parsed_at": "2026-11-09T15:17:29.682874+00:00"
+    }
+  ]
+}
