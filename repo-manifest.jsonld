@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/softwaremill/elasticmq/commit/73a1c655e36ea1256a77f43cd1ea648014c51dd3",
       "git:hexsha": "73a1c655e36ea1256a77f43cd1ea648014c51dd3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.0.0-rc1"
     },
     {
